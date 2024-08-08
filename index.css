@@ -38,7 +38,7 @@ div {
     height: 60%;
     width: 50%;
     background-color: #059669;
-    margin: auto;
+    margin-top: -4%;
 }    
 
 input {
@@ -81,8 +81,9 @@ h1 {
 #cont {
     width: 90%;
     text-align: center;
-    margin-left: 10px;
+    margin-top: 10px;
     margin-bottom: 20px;
+    margin-left: 20px;
 }    
 
 .top, .bottom {
