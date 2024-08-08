@@ -23,7 +23,7 @@ div {
 }
 
 #top {
-    height: 41%;
+    height: 40%;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 800;
@@ -81,7 +81,8 @@ h1 {
 #cont {
     width: 90%;
     text-align: center;
-    margin: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
 }    
 
 .top, .bottom {
