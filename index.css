@@ -34,6 +34,10 @@ div {
     background-color: #8B5CF6
 }
 
+#bottom {
+    background-color: #059669;
+}    
+
 input {
     font-family: "Inter", sans-serif; 
     font-optical-sizing: auto;
