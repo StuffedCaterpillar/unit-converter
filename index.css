@@ -65,7 +65,7 @@ button {
     width: 30%;
     text-align: center;
     margin: auto;
-    height: 5.8%;
+    height: 10%;
 }
 
 h1 {
@@ -74,4 +74,8 @@ h1 {
     font-weight: 600;
     font-style: normal;
     font-size: 110%;    
+}
+
+.top, .bottom {
+    margin: 0;
 }
