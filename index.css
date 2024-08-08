@@ -36,7 +36,9 @@ div {
 
 #bottom {
     height: 60%;
+    width: 45%;
     background-color: #059669;
+    margin: auto;
 }    
 
 input {
@@ -65,7 +67,7 @@ button {
     width: 30%;
     text-align: center;
     margin: auto;
-    height: 10%;
+    height: 15%;
 }
 
 h1 {
