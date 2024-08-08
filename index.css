@@ -67,7 +67,7 @@ button {
     width: 30%;
     text-align: center;
     margin: auto;
-    height: 15%;
+    height: 20%;
 }
 
 h1 {
@@ -81,7 +81,7 @@ h1 {
 #cont {
     width: 90%;
     text-align: center;
-    margin: auto;
+    margin: 10px;
 }    
 
 .top, .bottom {
