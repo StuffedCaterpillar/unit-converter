@@ -23,18 +23,19 @@ div {
 }
 
 #top {
+    height: 40%;
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
     font-size: 150%;
-    margin-bottom: 3.5%;
     color: white;
     padding: 20px;
     background-color: #8B5CF6
 }
 
 #bottom {
+    height: 60%;
     background-color: #059669;
 }    
 
