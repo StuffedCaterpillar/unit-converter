@@ -36,7 +36,7 @@ div {
 
 #bottom {
     height: 60%;
-    width: 45%;
+    width: 50%;
     background-color: #059669;
     margin: auto;
 }    
@@ -77,6 +77,11 @@ h1 {
     font-style: normal;
     font-size: 110%;    
 }
+
+#cont {
+    width: 45%;
+    text-align: center;
+}    
 
 .top, .bottom {
     margin: 0;
